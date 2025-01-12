@@ -14,6 +14,16 @@ SSAFY 11기 2학기 자율 프로젝트
 
 ---
 
+## 시연 영상
+
+### 로그인 및 회원가입
+https://github.com/user-attachments/assets/c7acc7c0-a9a0-4cfc-8ed4-5a0e083f9699
+
+### 거래 관련 기능 (게시글, 검색, 채팅)
+https://github.com/user-attachments/assets/b4a7e289-c15d-4162-b1c2-ce3e27a95698
+
+---
+
 ## 기술 스택
 
 **[FE]**
