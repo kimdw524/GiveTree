@@ -38,12 +38,12 @@
 
 **프로젝트 기간**
 
-2024년 10월 14일 ~ 2024년 11월 19일
+`2024년 10월 14일 ~ 2024년 11월 19일`
 
-<a href="https://separated-drifter-e42.notion.site/GiveTree-1b809bd563a48052b59dc6bd75a6ac33" target="_blank">❗ **개인적으로 개발하면서 고민했던 점과 트러블 슈팅**</a>
+### [❗ **세부 구현 기능, 개인적으로 개발하면서 고민했던 점과 트러블 슈팅** ❗](https://separated-drifter-e42.notion.site/GiveTree-1b809bd563a48052b59dc6bd75a6ac33)
 
 <details>
-  <summary>🖼 본인 담당 기능 시연 영상</summary>
+  <summary>🖼 본인 담당 주요 기능 시연 영상</summary>
   
   ### 로그인 및 회원가입
   https://github.com/user-attachments/assets/c7acc7c0-a9a0-4cfc-8ed4-5a0e083f9699
@@ -100,8 +100,6 @@
 
 ![backend.svg](image/backend.svg)
 
-<details>
-  <summary>🏗️ 아키텍처</summary>
-  
-  ![아키텍처.png](image/arch.png)
-</details>
+## 🏗️ 아키텍처
+
+![아키텍처.png](image/arch.png)
