@@ -2,6 +2,10 @@
 
 ## 프로젝트 개요
 
+**프로젝트 기간**
+
+`2024년 10월 14일 ~ 2024년 11월 19일`
+
 **서비스 소개**
 
 ```
@@ -13,32 +17,6 @@
 - 여러 가지 방식으로 기부를 할 수 있습니다. 일시후원/정기후원, 또 재단이 진행하는 캠페인을 선택해서 후원할 수 있습니다.
 - 캠페인 후원에 참여할 경우, 응원 메시지를 남길 수 있으며 메시지는 크리스마스 트리에 장식됩니다.
 ```
-<details>
-  <summary>🖼️ 주요 기능 스크린샷</summary>
-  
-  ### 💳 계좌 연동을 통한 간편한 기부
-  
-  ![편리한 기부.png](image/main_function1.png)
-  
-  ### 🛍️ 물품 판매 수익금의 일부 기부
-  
-  ![거래2.png](image/main_function3.png)
-  
-  ### 🫧 기부 내역의 투명한 공유
-  
-  ![후원내역.png](image/main_function2.png)
-  
-  ### 🎄 캠페인 개설 및 트리 응원 메세지
-  
-  ![캠페인.png](image/main_function4.png)
-  
-  ![트리1.gif](image/tree1.gif)
-
-</details>
-
-**프로젝트 기간**
-
-`2024년 10월 14일 ~ 2024년 11월 19일`
 
 ### [❗ **세부 구현 기능, 개인적으로 개발하면서 고민했던 점과 트러블 슈팅** ❗](https://separated-drifter-e42.notion.site/GiveTree-1b809bd563a48052b59dc6bd75a6ac33)
 
@@ -103,3 +81,23 @@
 ## 🏗️ 아키텍처
 
 ![아키텍처.png](image/arch.png)
+
+## 🖼️ 주요 기능 스크린샷
+
+### 💳 계좌 연동을 통한 간편한 기부
+
+![편리한 기부.png](image/main_function1.png)
+
+### 🛍️ 물품 판매 수익금의 일부 기부
+
+![거래2.png](image/main_function3.png)
+
+### 🫧 기부 내역의 투명한 공유
+
+![후원내역.png](image/main_function2.png)
+
+### 🎄 캠페인 개설 및 트리 응원 메세지
+
+![캠페인.png](image/main_function4.png)
+
+![트리1.gif](image/tree1.gif)
