@@ -18,7 +18,7 @@
 - 캠페인 후원에 참여할 경우, 응원 메시지를 남길 수 있으며 메시지는 크리스마스 트리에 장식됩니다.
 ```
 
-### [❗ **세부 구현 기능, 개인적으로 개발하면서 고민했던 점과 트러블 슈팅** ❗](https://separated-drifter-e42.notion.site/GiveTree-1b809bd563a48052b59dc6bd75a6ac33)
+### [**본인이 담당한 세부 기능, 개발하면서 고민했던 점과 트러블 슈팅 (Notion)**](https://separated-drifter-e42.notion.site/GiveTree-1b809bd563a48052b59dc6bd75a6ac33)
 
 <details>
   <summary>🖼 본인 담당 주요 기능 시연 영상</summary>
